@@ -6,7 +6,7 @@
 1. Remove barrel power cables from ODROID C1+ and ODROID XU4.
 
 ***
-NOTE: Use long USB - connector pin cables for camera to XU4 connection instead of  short cables.
+NOTE: Use long USB - connector pin cables for camera - XU4 connection instead of  short cables.
 ***
 
 2. Turn OFF USB AVRISP XPII (blue box).
