@@ -20,7 +20,7 @@ NOTE: Use long USB - connector pin cables for camera to XU4 connection instead o
 
 1. Turn ON USB AVRISP XPII (blue box).
 1. Click the 'Setup Wagman' icon on the desktop.
-1. Check that the terminal reads 'Bootloader Sucessful', 'Firmware Sucessful', '______ Sucessful'.
+1. Check that the terminal reads 'Bootloader Pass', 'Firmware Pass', 'Setup Pass'.
 1. Turn OFF USB AVRISP XPII (blue box).
 1. Remove USB AVRISP XPII (blue box) connector from pins on Wagman.
 
